@@ -1,9 +1,10 @@
-FRAMEWORK Yii2- PADRÃO/PHP 8
-BOOTSTRAP 4/5 
+FRAMEWORK Yii2- BASIC-PHP 8
+
 -------------------------------------------------------------------------------------------------
 #### Referências
+BOOTSTRAP 3/4/5 
 [W3Schools](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
-
+FRAMEWORK Yii2
 [Yii2](https://www.yiiframework.com/doc/guide/2.0/pt-br)
 -------------------------------------------------------------------------------------------------
 #### Autora
