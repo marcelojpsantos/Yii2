@@ -1,4 +1,4 @@
-FRAMEWORK Yii2- BASIC
+FRAMEWORK Yii2-BASIC
 
 -------------------------------------------------------------------
 #### Referências PHP 8
