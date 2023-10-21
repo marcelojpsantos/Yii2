@@ -6,7 +6,7 @@ BOOTSTRAP 5-
 
 -------------------------------------------------------------------------------------------------
 #### Referências
-[Yii2- ADVANCED](https://www.yiiframework.com/doc/guide/2.0/en/start-installation)
+[Yii2- BASIC](https://www.yiiframework.com/doc/guide/2.0/en/start-installation)
 
 -------------------------------------------------------------------------------------------------
 #### Autora
